@@ -1,4 +1,4 @@
-# Monjua-Forecast-Sales
+# Deep-Learning-Forecast-Sales
 A Keras LSTM model to predict future sales
 
 This is a [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning) project to predict future sales from a fashin company.
